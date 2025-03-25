@@ -3,6 +3,8 @@
 
 <p align="center">Student Programming at Artevelde University of Applied Sciences with a passion for software development. Always eager to learn, creative in finding solutions, and motivated to explore new technologies.</p>
 
+- 🌱 I’m currently learning **CSS, CraftCMS and JavaScript**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maurice-halsberghe-79820032b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maurice-halsberghe-79820032b" height="30" width="40" /></a>
