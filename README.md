@@ -3,7 +3,7 @@
 
 <p align="center">Student Programming at Artevelde University of Applied Sciences with a passion for software development. Always eager to learn, creative in finding solutions, and motivated to explore new technologies.</p>
 
-- 🌱 I’m currently learning **CSS, CraftCMS and JavaScript**
+- 🌱 I’m currently learning **CSS, React and JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
